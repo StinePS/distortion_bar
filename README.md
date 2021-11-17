@@ -1,12 +1,12 @@
 # distortion_bar
 
-See the exercise [here](https://stineps.github.io/distortion_bar/)
-
 The task is to create a data-visualization for The Distortion Bar
 
 The bar needs a visualization on how many people are currently in queue to get a cold beer - Data is provided.
 
 The data refreshes every 10 seconds, so if you could set up the script to fetch every 10 seconds or so, that would be great.
+
+See the exercise [here](https://amazing-goldberg-ff82d8.netlify.app/)
 
 ## Requirements
 
